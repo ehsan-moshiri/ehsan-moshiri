@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ehsan-moshiri
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning Laravel, PHP, CSS, Javascript, ...
-- 💞️ I’m looking to collaborate on Laravel 
+- 💞️ I’m looking to collaborate on Laravel and Python
 - 📫 How to reach me: emoshiri@yahoo.com
 
 <!---
